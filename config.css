@@ -1,0 +1,205 @@
+header{
+    width: 1230px;
+    height: 30px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+   
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    
+}
+
+
+.partsection{
+margin-top: 20px;
+width: 100%;
+height: 35%;
+
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 20px;
+}
+.div1{
+ display: flex;
+ align-items: center;
+}
+.class{
+    display: flex;
+    align-items: start;
+    width: 1240px;
+    height: 500px;
+    
+   
+}
+
+.cuadro1{
+    
+    padding: 20px;
+    margin: 30px 30px;
+    width: 500px;
+    height: 550px;
+    
+}
+.cuadro1 h1{
+    margin: 10px 20px;
+}
+
+.ovalos{
+    display: flex;
+    align-items: center;
+    margin: 0px 10px;
+    width: 5px;
+    height: 50px;
+    background-color: red;
+}
+.img1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0px 5px;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0px 5px;
+}
+.img3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0px 5px;
+}
+.p{
+    color: gray;
+    margin: 0px 10px;
+}
+.class2{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+    margin: 10px 20px;
+}
+.class3{
+    
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: rgba(240, 75, 75, 0.908);
+}
+
+.class4{
+    
+    border-radius: 10px;
+    margin: 10px 20px;
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid red;
+}
+.class3 p{
+    margin: 15px 30px;
+}
+.class4 p{
+    margin: 15px 30px;
+}
+
+   
+
+.imagen1{
+    width: 100px;
+    height: 50px;
+    margin: 0px 20px;
+    background-color: rgb(201, 198, 198);
+    border-radius: 10px;
+}
+.imagen2{
+    width: 100px;
+    height: 50px;
+    margin: 0px 20px;
+    background-color: rgb(201, 198, 198);
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.imagen3{
+    width: 100px;
+    height: 50px;
+    margin: 0px 20px;
+    background-color:  rgb(201, 198, 198);
+    border-radius: 10px;
+}
+.imagen4{
+    width: 100px;
+    height: 50px;
+    margin: 0px 20px;
+    background-color:  rgb(201, 198, 198);
+    border-radius: 10px;
+    
+}
+.barreta1{
+    margin: 0px 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    place-items: center;
+    width: 200px;
+    height:50px ;
+    border: 1px solid black;
+}
+.cs{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+.barreta2{
+    margin: 0px 40px;
+    gap: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    place-items: center;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+}
+.imagenjhon{
+    
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.contenedor2{
+    width: 800px;
+    height: 800px;
+    background-color: rgb(230, 25, 25);
+    border: 1px solid  black;
+}
+.barra{
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 40px;
+    width: 300px;
+    height: 175px;
+    background-color: white;
+    border: 1px solid black;
+}
+.contenido{
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: 40px 40px;
+    width: 300px;
+    height: 400px;
+}
+.imagengrande{
+    border-radius: 10px;
+    width: 300px;
+    height: 400px;
+}
